@@ -2,7 +2,7 @@
     "enabled": true,
     "acf": {
         "icao": "B772",
-        "author": "FlightFactor "
+        "author": "FlightFactor and StepToSky"
     },
     "speed": {
         "taxi": 30
@@ -10,8 +10,7 @@
     "autoUpdate": true,
     "replace_dref": [
         {
-            "old": "sim/cockpit/radios/nav1_freq_hz",
-            "new": "T7Avionics/radios/ils1_freq"
+
         }
     ],
     "checkHeights": [
